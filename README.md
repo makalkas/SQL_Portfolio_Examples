@@ -8,7 +8,6 @@ There are three files in this repository labeled as follows:
 	- INSERT
 	- UPDATE
 	- DELETE
-	- LOCK
 2. **DDL**- Data Definition (Language) Scripts
 	- Create
 	- Drop
