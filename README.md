@@ -23,12 +23,20 @@ There are three files in this repository labeled as follows:
 	- Select DISTINCT
 	- Select * INTO
 	- Select TOP #
-5. **Other**- Transaction control and other scripts that don't exactly fit in the other categories.
-	- BEGIN TRANSACTION
-	- COMMIT
+5. **TCL** - Transaction Control Language
+   	- BEGIN TRANSACTION
+   	- COMMIT
 	- ROLLBACK
-	- SAVEPOINT
+ 	- SAVEPOINT
+7. **Other**- other scripts that don't exactly fit in the other categories.
+	- USE
+	- EXEC
+	- BREAK/CONTINUE
+ 	- GOTO
+  	- IF/ELSE
+   	- WAITFOR
 	- BEGIN TRY/END TRY
 	- BEGIN CATCH/END CATCH
+ 	- WHILE
 
 Each text file will contain coments on the problem an provide a description of the thinking behind solution as well as the actual script.
