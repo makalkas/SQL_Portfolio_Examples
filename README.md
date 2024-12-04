@@ -9,7 +9,6 @@ There are three files in this repository labeled as follows:
 	- UPDATE
 	- DELETE
 	- LOCK
-	- CALL
 2. **DDL**- Data Definition (Language) Scripts
 	- Create
 	- Drop
