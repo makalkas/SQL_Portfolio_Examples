@@ -38,5 +38,6 @@ There are three files in this repository labeled as follows:
 	- BEGIN TRY/END TRY
 	- BEGIN CATCH/END CATCH
  	- WHILE
+  	- ANY/All
 
 Each text file will contain coments on the problem an provide a description of the thinking behind solution as well as the actual script.
